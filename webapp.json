@@ -1,0 +1,7 @@
+{
+  "ElasticApm": {
+    "LogLevel": "Debug",
+    "ServerUrl": "http://1.2.3.4:8000",
+    "SecretToken": "dq27Zh"
+  }
+}
