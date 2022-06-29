@@ -1,7 +1,0 @@
-{
-  "ElasticApm": {
-    "UserName": "$UserName",
-    "ServerUrl": "http://1.2.3.4:8000",
-    "SecretToken": "dd36dHDD7DDBBd6536"
-  }
-}

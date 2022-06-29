@@ -1,0 +1,18 @@
+{
+  "ElasticApm": {
+    "UserName": "John",
+    "ServerUrl": "http://1.2.3.4:8000",
+    "SecretToken": "dd36dHDD7DDBBd6536"
+  },
+  "AppSettings": {
+    "KafkaSettings": {
+      "BrokerList": "kafka01.testurl:9092"
+    },
+    "ConnectionStrings": {
+      "SqliteConnection": "sqllite-test-url:3306",
+      "RedisConnection": "redis.test1.io:26379",
+      "SqlServerConnection": "sqlserver1.test1-url.io",
+      "MySqlConnection": "msql-test-url:3306"
+    }
+  }
+}
